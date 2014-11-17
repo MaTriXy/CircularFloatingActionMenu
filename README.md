@@ -11,9 +11,9 @@ An animated, customizable circular floating menu for Android, inspired by Path a
 ### Installation
 Grab the AAR from Maven Central by adding it as a dependency in your **build.gradle** file:
 
-```
+```groovy
 dependencies {
-    compile 'com.oguzdev:CircularFloatingActionMenu:1.0'
+    compile 'com.oguzdev:CircularFloatingActionMenu:1.0.2'
 }
 ```
 Alternatively, clone the repo and add `library` as a module to your project.
